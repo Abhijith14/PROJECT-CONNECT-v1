@@ -10,7 +10,7 @@ while True:
         win32clipboard.CloseClipboard()
 
         print(Question)
-        file = open(r"\\UDAY\Users\Public\Achu_Semester\clip.txt", "w+")
+        file = open(r"\\Computer_Username\Users\Public\PROJECT CONNECT\clip.txt", "w+")
         file.write(Question)
         file.close()
     except:

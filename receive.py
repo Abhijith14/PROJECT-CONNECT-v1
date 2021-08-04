@@ -4,7 +4,7 @@ import time
 while True:
 
     try:
-        file = open(r"\\UDAY\Users\Public\Achu_Semester\clip.txt", "r+")
+        file = open(r"\\Computer_Username\Users\Public\PROJECT CONNECT\clip.txt", "r+")
 
         val = file.readlines()
 
