@@ -32,10 +32,10 @@ First of all, download and install [Python](https://www.python.org/downloads/) a
 
 ### 💻 Run Project CONNECT
 
-This project works with *Windows Networking*. Connect your devices and make sure you can access the *Public* folder of the devices. <br>
-Move the [main.py](main.py) file to the computer where you will do *Copy Action*. <br>
-Move the [receive.py](receive.py) file to different computers where you need the copied text into the clipboard. <br>
-Finally create a folder inside the *Public* folder and name it;
+- This project works with *Windows Networking*. Connect your devices and make sure you can access the *Public* folder of the devices.
+- Move the [main.py](main.py) file to the computer where you will do *Copy Action*.
+- Move the [receive.py](receive.py) file to different computers where you need the copied text into the clipboard.
+- Finally create a folder inside the *Public* folder and name it;
 ```bash
 PROJECT CONNECT
 ```
