@@ -1,6 +1,3 @@
-# PROJECT-CONNECT-v1
-A python project for Clipboard Networking
-
 <p align="center">
 <img src='readme_assets/logo.png' align="center" width=300>
 </p>
